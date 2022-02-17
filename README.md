@@ -1,1 +1,1 @@
-Give access to your gather space only to people who hold your NFT using [Thirdweb](https://thirdweb.com) SDK.
+no longer maintained here, moved to [@thirdweb-dev/create-thirdweb-app](https://github.com/thirdweb-dev/create-thirdweb-app/tree/main/examples/nextjs/bundle/gather.town) instead
